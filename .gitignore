@@ -1,0 +1,4 @@
+s*
+*.tgz
+*.tar
+.ipynb_checkpoint*
